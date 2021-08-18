@@ -6,6 +6,7 @@ My idea is, having an arena with a limited number of platforms, moving up and do
 Players should now fight each other 1vs1 or 2vs2 in this arena to achieve different goals,
 like "capture the flag", "king of the hill", or whatever game mode would feel great to play in this arena.
 I thought of a shooter component to bring some action to the game and maybe some coop features to make it a bit more interesting for team players.
+The project name is "Light Arena" for now, it's not the final title anyway.
 
 First off, I wanted to get some inspiration. A mood board would give me a proper orientation, of how the game should look and feel.
 
