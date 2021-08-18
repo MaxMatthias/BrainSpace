@@ -12,6 +12,8 @@ Here you can see the first steps I took on my way to become a pixel artist.
 ![Slug](https://user-images.githubusercontent.com/81244784/129870311-a78635d2-2330-46d3-b2e6-ae90671d96bc.gif)
 ![Sin](https://user-images.githubusercontent.com/81244784/129871011-d89c670a-3054-4d35-ac1c-d587aa9722eb.png)
 ![dwarf](https://user-images.githubusercontent.com/81244784/129871069-22e8bffd-8905-4b4b-8633-f3265db7226a.png)
+<br>
 
+I am actually planning some smaller game-dev projects to use this pixel art style in. Not only to train my abilities as a pixel artist, but also to get some small projects done and published.
 <br><br><br>
 [Back to the HUB](https://maxmatthias.github.io/BrainSpace/index.html)
