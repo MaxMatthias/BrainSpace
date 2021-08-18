@@ -1,5 +1,5 @@
 ### Welcome to my little showcase, devlog, portfolio, or whatever you want to call it! :)
 
-[Here](https://maxmatthias.github.io/BrainSpace/lightArena.html) you can find a project I have been working on. I had to stop working on it due to other obligations, but I hope to have some time and motivation to pick this project up again.
+[Here](https://maxmatthias.github.io/BrainSpace/lightArena.html) you can find a project I have been working on. I had to stop working on it due to other obligations, but I hope I will have some time and motivation soon, to pick this project up again.
 
 I also put some time in learning [PixelArt](https://maxmatthias.github.io/BrainSpace/pixelArt.html). If you are interested, feel free to take a look at this small selection of my work.
