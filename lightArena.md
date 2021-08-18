@@ -1,4 +1,4 @@
-#Light Arena
+# Light Arena
 
 I had an idea. Well, that's how game development usually starts.
 
