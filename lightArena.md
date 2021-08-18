@@ -14,7 +14,11 @@ The left one is actually from an Audi commercial, but the artworks were created 
 <br><br>
 As I just learned about a game engine called Godot, which  seemed to be ideal for indie developers, I decided to give it a try.
 So, I created this arena and some different kinds of platform patterns in Godot. I got the prototype done and I am pretty satisfied with it until now.
-
+<a href="https://youtu.be/u9E26tT9isU">
+  <img src="https://img.youtube.com/vi/u9E26tT9isU/0.jpg">
+</a>
+<br>
+Click the screenshot for the whole video :)
 <br><br>
 
 I then started to create some 3D-models for a prototype of a character model in blender, to get a feeling of how this game could look like.<br>
