@@ -5,4 +5,4 @@ I tried different art styles, but pixel art seems to fit my natural talents the 
 After a while, I discovered a tool named Aseprite and recently started to create my first sprites and small animations.
 
 Here you can see the first steps I took on my way to become a pixel artist.
-[Image]()
+[Image](Lantern.gif)
