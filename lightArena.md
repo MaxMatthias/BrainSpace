@@ -9,11 +9,16 @@ I thought of a shooter component to bring some action to the game and maybe some
 
 First off, I wanted to get some inspiration. A mood board would give me a proper orientation, of how the game should look and feel.
 
-![charMoodboard01](https://user-images.githubusercontent.com/81244784/129899894-51c92fbe-13ae-42a7-89b5-d34352f14f55.jpg)
-by Ryan Hawthorne
-![charMoodboard02](https://user-images.githubusercontent.com/81244784/129899896-ceaac560-b2be-46be-b211-612a6e18d689.jpg)
+<img src="https://user-images.githubusercontent.com/81244784/129901649-64823869-941f-43bf-9d05-7d3161b5b08a.PNG"><br>
+The left one is actually from an Audi commercial, but the artworks were created by Lee Davies and Ryan Hawthorne.
+<br><br>
+As I just learned about a game engine called Godot, which  seemed to be ideal for indie developers, I decided to give it a try.
+So, I created this arena and some different kinds of platform patterns in Godot. I got the prototype done and I am pretty satisfied with it until now.
 
-![moodboard01](https://user-images.githubusercontent.com/81244784/129899898-2f7f458e-bb24-46cd-aebf-48a13b5ed207.jpg)
+<br><br>
 
-
-So, I created this arena and some different kinds of platform patterns. I also started to create some 3D-models for a prototype of a character model, to get a feeling of how this game could look like.
+I then started to create some 3D-models for a prototype of a character model in blender, to get a feeling of how this game could look like.<br>
+<img src="https://user-images.githubusercontent.com/81244784/129904525-0b773915-8863-46ec-84c6-9a0c62e5ea25.PNG" width="600"><br>
+I quickly learned, that creating assets and models takes a lot of time, so I just got to create these models, before I decided that this was a task for future-me.
+<br><br>
+And here I am now, considering to pick up working on this ambitious project again. Co-workers are welcome :)
