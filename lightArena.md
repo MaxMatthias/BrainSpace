@@ -19,11 +19,7 @@ So, I created this arena and some different kinds of platform patterns in Godot.
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9E26tT9isU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-<a href="https://youtu.be/u9E26tT9isU">
-  <img src="https://img.youtube.com/vi/u9E26tT9isU/0.jpg">
-</a>
-<br>
-Click the screenshot for the whole video :)
+
 <br><br>
 
 I then started to create some 3D-models for a prototype of a character model in blender, to get a feeling of how this game could look like.<br>
